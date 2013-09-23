@@ -3,5 +3,6 @@
     "version"    : "0.0.0",
     "description": "Npm package to use firebase thanks to browserify",
     "repository" : "https://github.com/cloud-walker/client-firebase.git",
-    "license"    : "MIT"
+    "license"    : "MIT",
+    "main"       : "firebase"
 }
