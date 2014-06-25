@@ -1,8 +1,13 @@
 {
-    "name"       : "client-firebase",
-    "version"    : "0.0.1",
-    "description": "Npm package to use firebase thanks to browserify",
-    "repository" : "https://github.com/cloud-walker/client-firebase.git",
-    "license"    : "MIT",
-    "main"       : "firebase"
+  "name": "client-firebase",
+  "version": "1.0.0",
+  "description": "Npm package to use firebase thanks to browserify",
+  "repository": "https://github.com/cloud-walker/client-firebase.git",
+  "license": "MIT",
+  "main": "index",
+  "devDependencies": {
+    "gulp": "^3.8.2",
+    "gulp-concat": "^2.2.0",
+    "gulp-plumber": "^0.6.3"
+  }
 }
